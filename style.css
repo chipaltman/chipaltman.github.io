@@ -9,3 +9,7 @@ h1 {
 font: bold small-caps 42px "Fira Sans", sans-serif;
   
 }
+
+p {
+  font: 16px "Spectral", serif;
+}
