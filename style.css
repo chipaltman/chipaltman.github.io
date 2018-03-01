@@ -1,10 +1,13 @@
 body 
 {background: #ffffcc;}
 
-h1 {font: bold caps 42px "Lato", sans-serif;
+h1 {font: bold uppercase 42px "Lato", sans-serif;
 }
 
-h2 {font: bold caps 26px "Lato", sans-serif;
+h2 {font: bold uppercase 26px "Lato", sans-serif;
+}
+
+h3 {font: italic 16px "Aleo", serif;
 }
 
 p {font: 16px "Lato", sans-serif;
