@@ -1,5 +1,7 @@
 body {
-    background-color: #ffffcc;
+    body {
+  background: linear-gradient(to left top, blue, red) fixed;
+
 }
 
 h1 {
