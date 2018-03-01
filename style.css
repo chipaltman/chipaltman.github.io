@@ -2,17 +2,17 @@ body
 {background: #ffffcc;}
 
 h1 {
-font: lighter uppercase 84px Lato, sans-serif;
+font: lighter uppercase 84px "Source Sans Pro", sans-serif;
 }
 
 h2 {
-font: lighter uppercase 52px Lato, sans-serif;
+font: lighter uppercase 52px "Source Sans Pro", sans-serif;
 }
 
 h3 {
-font: lighter italic 32px Aleo, serif;
+font: lighter italic 32px "Source Serif Pro", serif;
 }
 
 p {
-font: 32px Lato, sans-serif;
+font: 32px "Source Sans Pro", sans-serif;
 }
