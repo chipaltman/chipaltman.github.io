@@ -3,3 +3,9 @@ body {
 background: #ffffcc;
 
 }
+
+h1	{
+  
+	font: bold small-caps 42px "Fira Sans", sans-serif;
+  
+}
