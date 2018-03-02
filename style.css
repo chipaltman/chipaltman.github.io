@@ -1,8 +1,10 @@
 body {
 
-background-color: #ffffcc;
-   <a href="index.html"url>(pilcrow.png)<a/>
+   background-color: #ffffcc;
+}
 
+input.right {
+    float: right;
 }
 
 h1 {
