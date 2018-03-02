@@ -3,10 +3,6 @@ body {
    background-color: #ffffcc;
 }
 
-input.right {
-    float: right;
-}
-
 h1 {
     
 box-sizing: border-box;
