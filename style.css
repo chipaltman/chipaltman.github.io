@@ -13,13 +13,14 @@ background-repeat: no-repeat;
 }
 
 h1 {
-  border-left: 1.618em solid rgba(100,100,100,1);
-padding-left: 1.618em;
-	font-family: "IBM Plex Sans", sans-serif;
-    font-size: 4.236em;
-    text-transform: uppercase;
-    font-weight: 100;
-	line-height: .6;
+ 
+border-left: 1em solid rgba(100,100,100,1);
+padding-left: .5em;
+font-family: "IBM Plex Sans", sans-serif;
+font-size: 4.236em;
+text-transform: uppercase;
+font-weight: 100;
+line-height: .6;
 }
     
 h2 {
