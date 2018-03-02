@@ -5,6 +5,7 @@ body {
 
 nav {
 float: right;
+   align: right;
    
 font-family: Spectral, serif;
 font-size: 1.618em;
