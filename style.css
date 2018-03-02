@@ -16,7 +16,8 @@ background-repeat: no-repeat;
 }
 
 h1 {
-
+    
+color: rgba(100,100,100,1);
 font-family: "IBM Plex Sans", sans-serif;
 font-size: 4.236em;
 text-transform: uppercase;
@@ -25,9 +26,9 @@ line-height: 1;
 }
     
 h2 {
-
-font-family: "IBM Plex Sans", sans-serif;
+    
 color: rgba(100,100,100,1);
+font-family: "IBM Plex Sans", Roboto, sans-serif;
 font-size: 2.618em;
 text-transform: uppercase;
 font-weight: 900;
