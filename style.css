@@ -1,7 +1,7 @@
 body {
 
 border-left: .3em solid rgba(100,100,100,1);
-padding-left: .6em;
+padding-left: 1em;
 
 background: rgba(255,255,204,1);
 background: -moz-linear-gradient(-45deg, rgba(255,255,204,1) 0%, rgba(255,255,204,1) 58%, rgba(255,255,255,1) 100%);
