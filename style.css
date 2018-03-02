@@ -14,8 +14,8 @@ background-repeat: no-repeat;
 
 h1 {
  
-border-left: .66em solid rgba(100,100,100,1);
-padding-left: .3em;
+border-left: 6px solid rgba(100,100,100,1);
+padding-left: 3px;
 font-family: "IBM Plex Sans", sans-serif;
 font-size: 4.236em;
 text-transform: uppercase;
