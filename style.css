@@ -1,5 +1,8 @@
 body {
 
+border-left: 3px solid rgba(100,100,100,1);
+padding-left: 6px;
+
 background: rgba(255,255,204,1);
 background: -moz-linear-gradient(-45deg, rgba(255,255,204,1) 0%, rgba(255,255,204,1) 58%, rgba(255,255,255,1) 100%);
 background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(255,255,204,1)), color-stop(58%, rgba(255,255,204,1)), color-stop(100%, rgba(255,255,255,1)));
@@ -13,9 +16,7 @@ background-repeat: no-repeat;
 }
 
 h1 {
- 
-border-left: 6px solid rgba(100,100,100,1);
-padding-left: 3px;
+
 font-family: "IBM Plex Sans", sans-serif;
 font-size: 4.236em;
 text-transform: uppercase;
@@ -24,8 +25,7 @@ line-height: 1;
 }
     
 h2 {
-border-left: 6px solid rgba(100,100,100,1);
-padding-left: 3px;
+
 font-family: "IBM Plex Sans", sans-serif;
 font-size: 2.618em;
 text-transform: uppercase;
@@ -35,8 +35,7 @@ line-height: .6;
 }
 
 h3 {
-border-left: 6px solid rgba(100,100,100,1);
-padding-left: 3px;
+
 font-family: Spectral, serif;
 font-size: 1.618em;
 font-style: italic;
