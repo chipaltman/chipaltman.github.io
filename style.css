@@ -1,11 +1,11 @@
 body {
 
-border-left: .3em solid rgba(100,100,100,1);
-margin-left: 1em;
-
 }
 
 h1 {
+    
+border-left: .3em solid rgba(100,100,100,1);
+border-left: 1em;
 
 background: rgba(255,255,133,1);
 background: -moz-linear-gradient(left, rgba(255,255,133,1) 0%, rgba(255,255,204,1) 62%, rgba(255,255,255,1) 100%);
