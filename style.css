@@ -54,3 +54,12 @@ font-weight: 300;
 a {
 text-decoration: none;
 }
+
+.outline {
+  color: white;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
+}
