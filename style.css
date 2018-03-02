@@ -24,25 +24,25 @@ line-height: 1;
 }
     
 h2 {
-	font-family: "IBM Plex Sans", sans-serif;
-    font-size: 2.618em;
-    text-transform: uppercase;
-    font-weight: 900;
-	line-height: .6;
+font-family: "IBM Plex Sans", sans-serif;
+font-size: 2.618em;
+text-transform: uppercase;
+font-weight: 900;
+line-height: .6;
     
 }
 
 h3 {
-	font-family: Spectral, serif;
-    font-size: 1.618em;
-    font-style: italic;
-    font-weight: 100;
-	line-height: 1.618;
+font-family: Spectral, serif;
+font-size: 1.618em;
+font-style: italic;
+font-weight: 100;
+line-height: 1.618;
     
 }
 
 p {
-  font-family: Spectral, serif;
-    font-size: 1em;
-    font-weight: 300;
+font-family: Spectral, serif;
+font-size: 1em;
+font-weight: 300;
 }
