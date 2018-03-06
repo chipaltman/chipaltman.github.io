@@ -72,3 +72,11 @@ a {
                 -1px 1px 0 #000,
                 1px 1px 0 #000;
 }
+
+footer {
+        margin-top: 1.68em;
+        font-family: Spectral, serif;
+        font-size: 1em;
+        font-weight: 300;
+}
+      
