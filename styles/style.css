@@ -4,7 +4,11 @@ body {
 
 nav {
    
+<<<<<<< HEAD
         font-family: Montserrat, sans-serif;
+=======
+        font-family: Montserrat, serif;
+>>>>>>> 7db9bce098fc3b6d6e63e275d2ded097cd0732eb
         font-size: 1.618em;
         font-style: italic;
         font-weight: 300;
