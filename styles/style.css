@@ -4,10 +4,14 @@ body {
 
 nav {
    
-        font-family: Spectral, serif;
+<<<<<<< HEAD
+        font-family: Montserrat, sans-serif;
+=======
+        font-family: Montserrat, serif;
+>>>>>>> 7db9bce098fc3b6d6e63e275d2ded097cd0732eb
         font-size: 1.618em;
         font-style: italic;
-        font-weight: 100;
+        font-weight: 300;
         line-height: 1.618;
    
 }   
@@ -24,17 +28,17 @@ h1 {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffcc',GradientType=1 );
 
     color: rgba(100,100,100,1);
-    font-family: "IBM Plex Sans", sans-serif;
+    font-family: Montserrat, sans-serif;
     font-size: 4.236em;
     text-transform: uppercase;
-    font-weight: 100;
+    font-weight: 300;
     line-height: 1;
 }
     
 h2 {
     
        	color: rgba(100,100,100,1);
-        font-family: "IBM Plex Sans", Roboto, sans-serif;
+        font-family: Montserrat, Roboto, sans-serif;
         font-size: 2.618em;
         text-transform: uppercase;
         font-weight: 900;
@@ -44,19 +48,19 @@ h2 {
 
 h3 {
 
-        font-family: Spectral, serif;
+        font-family: Montserrat, sans-serif;
         font-size: 1.618em;
         font-style: italic;
-        font-weight: 100;
+        font-weight: 300;
         line-height: 1.618;
     
 }
 
 p {
     
-        font-family: Spectral, serif;
+        font-family: Roboto, sans-serif;
         font-size: 1.618em;
-        font-weight: 300;
+        font-weight: 400;
 }
 
 a {
@@ -75,7 +79,7 @@ a {
 
 footer {
         margin-top: 1.68em;
-        font-family: Spectral, serif;
+        font-family: Montserrat, sans-serif;
         font-size: 1em;
         font-weight: 300;
 }
