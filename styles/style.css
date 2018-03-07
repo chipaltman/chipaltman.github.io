@@ -3,18 +3,20 @@ body {
 }
 
 nav {
-        font-family: Montserrat, sans-serif;
-        font-family: Montserrat, serif;
-        font-size: 1.618em;
-        font-style: italic;
-        font-weight: 300;
-        line-height: 1.618;
-}   
+padding-left: 2.6em;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+font-style: italic;
+font-size: 1em;
+margin-bottom: -16px;
+} 
 
 h1 {
         box-sizing: border-box;
         border-left: .3em solid rgba(100,100,100,1);
         padding-left: .3em;
+        margin-top: 0px;
+        margin-bottom: -26px;
     
     background: rgb(255,255,255);
     background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,204,1) 50%);
@@ -22,41 +24,46 @@ h1 {
     background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,204,1) 50%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffcc',GradientType=1 );
 
-    color: rgba(100,100,100,1);
-    font-family: Montserrat, sans-serif;
-    font-size: 4.236em;
-    text-transform: uppercase;
-    font-weight: 300;
-    line-height: 1;
+font-family: 'Montserrat', sans-serif;
+text-transform: uppercase;
+font-weight: 300;
+font-size: 4.2em;
+color: rgba(100,100,100,1);
 }
     
 h2 {
-        color: rgba(100,100,100,1);
-        font-family: Montserrat, Roboto, sans-serif;
-        font-size: 2.618em;
-        text-transform: uppercase;
-        font-weight: 900;
-        line-height: 1; 
+color: rgba(100,100,100,1);
+    padding-left: 1em;
+font-family: 'Montserrat', sans-serif;
+font-weight: 900;
+font-size: 2.6em;
+text-transform: uppercase;
+margin-bottom: -10px;
 }
 
 h3 {
-        font-family: Montserrat, sans-serif;
-        font-size: 1.618em;
-        font-style: italic;
-        font-weight: 300;
-        line-height: 1.618;
+font-family: 'Montserrat', sans-serif;
+font-weight: 300;
+font-size: 1.6em;
+    margin-bottom: -16px;
 }
 
-p {
-        font-family: Roboto, sans-serif;
-        font-size: 1.618em;
-        font-weight: 400;
+p {padding-left: 2.6em;
+        font-family: Montserrat, sans-serif;
+        font-size: 1em;
+        font-weight: 300;
+}
+
+ol {
+        padding-left: 3.6em;
+        font-family: Montserrat, sans-serif;
+        font-size: 1em;
+        font-weight: 300;
 }
 
 a {
         text-decoration: none;
 }
-
 
 .outline {
         color: white;
@@ -67,9 +74,9 @@ a {
 }
 
 footer {
+        padding-left: 2.6em;
         margin-top: 1.68em;
         font-family: Montserrat, sans-serif;
         font-size: 1em;
         font-weight: 300;
 }
-      
