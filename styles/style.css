@@ -1,3 +1,6 @@
+body {
+font-family: 'Montserrat', sans-serif;
+}
 header {
         box-sizing: border-box;
         border-left: .3em solid rgba(100,100,100,1);
@@ -9,8 +12,6 @@ header {
     background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%,rgba(255,255,204,1) 50%);
     background: linear-gradient(to right, rgba(255,255,255,1) 0%,rgba(255,255,204,1) 50%);
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffcc',GradientType=1 );
-
-font-family: 'Montserrat', sans-serif;
 text-transform: uppercase;
 font-weight: 300;
 font-size: 4.2em;
@@ -18,17 +19,14 @@ color: rgba(100,100,100,1);
 } 
 nav {
 padding-left: 2.6em;
-font-family: 'Montserrat', sans-serif;
 font-weight: 300;
 font-style: italic;
 font-size: 1em;
 margin-bottom: -16px;
-} 
-   
+}
 h1 {
 color: rgba(100,100,100,1);
 padding-left: 1em;
-font-family: 'Montserrat', sans-serif;
 font-weight: 300;
 font-size: 4.2em;
 text-transform: uppercase;
@@ -37,44 +35,36 @@ margin-bottom: -10px;
 h2 {
 color: rgba(100,100,100,1);
 padding-left: 1em;
-font-family: 'Montserrat', sans-serif;
 font-weight: 900;
 font-size: 2.6em;
 text-transform: uppercase;
 margin-bottom: -10px;
 }
 h3 {
-font-family: 'Montserrat', sans-serif;
 font-weight: 300;
 font-size: 1.6em;
-    margin-bottom: -16px;
+margin-bottom: -16px;
 }
-p {padding-left: 2.6em;
-        font-family: Montserrat, sans-serif;
-        font-size: 1em;
-        font-weight: 300;
+p {
+padding-left: 2.6em;
+font-size: 1em;
+font-weight: 300;
 }
-
 ol {
-        padding-left: 3.6em;
-        font-family: Montserrat, sans-serif;
-        font-size: 1em;
-        font-weight: 300;
+font-size: 1em;
+font-weight: 300;
 }
 a {
-        text-decoration: none;
+text-decoration: none;
 }
 .outline {
-        color: white;
-        text-shadow: -1px -1px 0 #000,  
-                      1px -1px 0 #000,
-                     -1px 1px 0 #000,
-                      1px 1px 0 #000;
+color: white;
+text-shadow: -1px -1px 0 #000,  
+1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
 }
 footer {
-        padding-left: 2.6em;
-        margin-top: 1.68em;
-        font-family: Montserrat, sans-serif;
-        font-size: 1em;
-        font-weight: 300;
+padding-left: 2.6em;
+margin-top: 1.68em;
+font-size: 1em;
+font-weight: 300;
 }
