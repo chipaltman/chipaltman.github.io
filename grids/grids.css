@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .wrapper {
 display: grid;
 grid-template-columns: repeat(3, 1fr);
@@ -34,3 +35,6 @@ grid-row: 4;
 grid-column: 3;
 grid-row: 4;
 }
+=======
+#this is also a file
+>>>>>>> 8ef84e6acec856d2d37fc59ba90d631bd8c4858d
