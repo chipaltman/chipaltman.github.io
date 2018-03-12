@@ -48,7 +48,7 @@ nav {
 }
 
 article {
-  clear: both;
+  clear: left;
   padding-left: 1em;
 }
 
