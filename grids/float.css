@@ -12,6 +12,14 @@ body {
   min-width: 225px;
 }
 
+.later {
+  min-width: 175px;
+}
+
+.now {
+  min-width: 150px;
+}
+
 header {
   font-size: 3em;
   font-weight: 300;
