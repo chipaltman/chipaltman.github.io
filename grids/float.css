@@ -4,11 +4,18 @@ body {
 
 /* Header min-width needs to be in a separate class for each Header */
 
+.about {
+  min-width: 200px;
+}
+
+.altman {
+  min-width: 225px;
+}
+
 header {
   font-size: 3em;
   font-weight: 300;
   float: left;
-  min-width: 225px;
   padding-left: .3em;
   text-transform: uppercase;
   color: rgba(100, 100, 100, 1);
@@ -33,7 +40,7 @@ nav {
 }
 
 article {
-  clear: left;
+  clear: both;
 }
 
 h2 {
