@@ -1,0 +1,52 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  float: left;
+  min-width: 225px;
+  border-left: .3em solid rgba(100, 100, 100, 1);
+  padding-left: .3em;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-size: 3em;
+  color: rgba(100, 100, 100, 1);
+  border-left: .3em solid rgba(100, 100, 100, 1);
+  background: rgb(255, 255, 255);
+  background: -moz-linear-gradient(left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 204, 1) 50%);
+  background: -webkit-linear-gradient(left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 204, 1) 50%);
+  background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 204, 1) 50%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffcc', GradientType=1);
+}
+
+a {
+  text-decoration: none;
+}
+
+nav {
+  max-width: 60px;
+  float: right;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+article {
+  clear: left;
+}
+
+h2 {
+  color: rgba(100, 100, 100, 1);
+  font-weight: 900;
+  font-size: 2em;
+  text-transform: uppercase;
+}
+
+p {
+  font-size: 1em;
+  font-weight: 300;
+}
+
+footer {
+  font-size: 1em;
+  font-weight: 300;
+}
