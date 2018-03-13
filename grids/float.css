@@ -21,6 +21,20 @@ body {
   min-width: 150px;
 }
 
+.legal {
+  font-size: .62em;
+  line-height: 60px;
+}
+
+.w500 {
+  font-weight: 500;
+  line-height: 1.62em;
+}
+
+.italic {
+  font-style: italic;
+}
+
 .shadow {
   width: fit-content;
   padding-right: .3em;
