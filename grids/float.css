@@ -3,6 +3,7 @@ body {
 }
 
 .greyback {
+  display: flex-box;
   padding-right: .3em;
   padding-left: .3em;
   background-color: rgba(100, 100, 100, 1);
@@ -10,6 +11,10 @@ body {
 
 .about {
   min-width: 200px;
+}
+
+.altman {
+  min-width: 225px;
 }
 
 .later {
