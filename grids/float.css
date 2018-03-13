@@ -37,6 +37,14 @@ a {
   text-decoration: none;
 }
 
+a:link {
+  color: #fff;
+}
+
+a:visited {
+  color: #ffc;
+}
+
 nav {
   line-height: 20px;
   font-size: .9em;
@@ -45,8 +53,8 @@ nav {
   width: 60px;
   height: 60px;
   padding-left: .3em;
-  border-left: .3em solid rgba(100, 100, 100, 1);
-  background-color: #ffc;
+  border-left: .3em solid #fff;
+  background-color: rgba(100, 100, 100, 1);
 }
 
 article {
