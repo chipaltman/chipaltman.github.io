@@ -21,6 +21,13 @@ body {
   min-width: 150px;
 }
 
+.shadow {
+  width: fit-content;
+  padding-right: .3em;
+  padding-left: .3em;
+  background-color: rgba(100, 100, 100, 1);
+}
+
 header {
   font-size: 3em;
   font-weight: 300;
