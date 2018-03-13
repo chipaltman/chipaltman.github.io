@@ -3,7 +3,6 @@ body {
 }
 
 .greyback {
-  width: fit-content;
   padding-right: .3em;
   padding-left: .3em;
   background-color: rgba(100, 100, 100, 1);
@@ -36,10 +35,16 @@ body {
 }
 
 .shadow {
-  width: fit-content;
-  padding-right: .3em;
-  padding-left: .3em;
-  background-color: rgba(100, 100, 100, 1);
+  line-height: 30px;
+  width: 200px;
+  height: 60px;
+  padding-right: 1em;
+  padding-left: 1em;
+  text-align: center;
+  border: solid .1em;
+  border-color: rgba(100, 100, 100, .5);
+  background-color: #fff;
+  box-shadow: 5px 5px 5px rgba(100, 100, 100, 1);
 }
 
 header {
@@ -86,6 +91,7 @@ nav {
 
 article {
   clear: left;
+  padding-top: 1em;
   padding-left: 2em;
 }
 
