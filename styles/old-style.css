@@ -1,0 +1,83 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+header {
+  font-size: 4.2em;
+  font-weight: 300;
+  box-sizing: border-box;
+  margin-top: 0;
+  padding-left: .3em;
+  text-transform: uppercase;
+  color: rgba(100, 100, 100, 1);
+  border-left: .3em solid rgba(100, 100, 100, 1);
+  background: rgb(255, 255, 255);
+  background: -moz-linear-gradient(left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 204, 1) 50%);
+  background: -webkit-linear-gradient(left, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 204, 1) 50%);
+  background: linear-gradient(to right, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 204, 1) 50%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffcc', GradientType=1);
+}
+
+nav {
+  font-size: 1em;
+  font-weight: 300;
+  font-style: italic;
+  margin-bottom: -16px;
+  padding-left: 2.6em;
+}
+
+h1 {
+  font-size: 4.2em;
+  font-weight: 300;
+  margin-bottom: -10px;
+  padding-left: 1em;
+  text-transform: uppercase;
+  color: rgba(100, 100, 100, 1);
+}
+
+h2 {
+  font-size: 2.6em;
+  font-weight: 900;
+  margin-bottom: -10px;
+  padding-left: 1em;
+  text-transform: uppercase;
+  color: rgba(100, 100, 100, 1);
+}
+
+h3 {
+  font-size: 1.6em;
+  font-weight: 300;
+  margin-bottom: -16px;
+  padding-left: 1.6em;
+}
+
+p {
+  font-size: 1em;
+  font-weight: 300;
+  padding-left: 2.6em;
+}
+
+.p900 {
+  font-weight: 900;
+}
+
+ol {
+  font-size: 1em;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+}
+
+.outline {
+  color: white;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+footer {
+  font-size: 1em;
+  font-weight: 300;
+  margin-top: 1.68em;
+  padding-left: 2.6em;
+}
