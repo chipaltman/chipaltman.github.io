@@ -7,7 +7,7 @@ body {
 }
 
 .smaller {
-  font-size: .9em;
+  font-size: .8em;
 }
 
 .cyan {
@@ -26,22 +26,6 @@ body {
   padding-right: .3em;
   padding-left: .3em;
   background-color: rgba(100, 100, 100, 1);
-}
-
-.about {
-  min-width: 200px;
-}
-
-.altman {
-  min-width: 225px;
-}
-
-.later {
-  min-width: 175px;
-}
-
-.now {
-  min-width: 150px;
 }
 
 .legal {
